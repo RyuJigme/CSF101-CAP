@@ -4,7 +4,7 @@
 # 02230065
 ################################
 # REFERENCES
-# @DQ-Logo
+# chatgpt
 # @https://www.blackbox.ai/
 ################################
 # SOLUTION
